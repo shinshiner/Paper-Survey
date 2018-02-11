@@ -1,6 +1,17 @@
+# Content
+*   [Robot]()
+    *   [Grasping]()
+        *   [Grasping Unknown Objects]()
+        *   [Grasping in Cluttered Environment]()
+        *   [Grasping via Segmentation]()
+
 # Robot
 
 ## Grasping
+
+### Grasping Unknown Objects
+
+* [Ranking the good points: A comprehensive method for humanoid robots to grasp unknown objects](http://poeticonpp.csri-web.org:8989/PoeticonPlus/publications/1342_Gori_etal2013.pdf) (**International Conference on Advanced Robotics** 2013)
 
 ### Grasping in Cluttered Environment
 
