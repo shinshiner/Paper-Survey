@@ -17,7 +17,7 @@
 
 ### Grasping in Cluttered Environment
 
-* [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching](https://arxiv.org/pdf/1710.01330.pdf) (**arxiv** 2017)
+* [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching](http://vision.princeton.edu/projects/2017/arc/paper.pdf) (**arxiv** 2017)
 
 ### Grasping via Segmentation
 
