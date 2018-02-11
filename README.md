@@ -1,10 +1,12 @@
-# Paper-Survey
+# Robot
 
-## Robot
+## Grasping
 
-### Grasping
+### Grasping in Cluttered Environment
 
-#### Grasping via Segmentation
+* [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching](https://arxiv.org/pdf/1710.01330.pdf) (**arxiv** 2017)
+
+### Grasping via Segmentation
 
 * [Grasping novel objects with depth segmentation](http://www.robotics.stanford.edu/~ang/papers/iros10-GraspingWithDepthSegmentation.pdf) (**IROS** 2010)
 
