@@ -1,9 +1,21 @@
 # Content
+*   [Computer Vision](https://github.com/shinshiner/Paper-Survey#Computer-Vision)
+    *   [3D segmentation](https://github.com/shinshiner/Paper-Survey#3D-segmentation)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#Algorithm)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
+
+# Computer Vision
+
+## 3D segmentation
+
+### Algorithm
+
+* [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
+* [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
 # Robot
 
