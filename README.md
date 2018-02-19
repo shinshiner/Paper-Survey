@@ -1,5 +1,10 @@
 # Content
+*   [Machine Learning](https://github.com/shinshiner/Paper-Survey#Machine-Learning)
+    *   [Neural network]()
 *   [Computer Vision](https://github.com/shinshiner/Paper-Survey#Computer-Vision)
+    *   [Network architecture]()
+    *   [2D object detection](https://github.com/shinshiner/Paper-Survey#2D-object-detection)
+        *   [Algorithm]()
     *   [3D segmentation](https://github.com/shinshiner/Paper-Survey#3D-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#Algorithm)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
@@ -8,7 +13,23 @@
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
 
+# Machine Learning
+
+## Neural network
+
+* [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
+
 # Computer Vision
+
+## Network architecture
+
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
+
+## 2D object detection
+
+### Algorithm
+
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
 ## 3D segmentation
 
@@ -21,7 +42,7 @@
 
 ## Grasping
 
-### Grasping Unknown Objects
+### Grasping unknown objects
 
 * [Ranking the good points: A comprehensive method for humanoid robots to grasp unknown objects](http://poeticonpp.csri-web.org:8989/PoeticonPlus/publications/1342_Gori_etal2013.pdf) (**International Conference on Advanced Robotics** 2013)
 
