@@ -5,8 +5,10 @@
     *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
     *   [2D Object Detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
-    *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
+    *   [2D Segmentation](https://github.com/shinshiner/Paper-Survey#2d-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-1)
+    *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
@@ -31,6 +33,12 @@
 ### Algorithm
 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
+
+## 2D Segmentation
+
+### Algorithm
+
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870) (**ICCV** 2017)
 
 ## 3D Segmentation
 
