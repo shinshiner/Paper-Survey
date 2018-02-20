@@ -1,37 +1,38 @@
 # Content
 *   [Machine Learning](https://github.com/shinshiner/Paper-Survey#machine-learning)
-    *   [Neural network](https://github.com/shinshiner/Paper-Survey#neural-network)
+    *   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
 *   [Computer Vision](https://github.com/shinshiner/Paper-Survey#computer-vision)
-    *   [Network architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
-    *   [2D object detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
+    *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
+    *   [2D Object Detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
-    *   [3D segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
+    *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-1)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
+        *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
 
 # Machine Learning
 
-## Neural network
+## Neural Network
 
 * [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
 
 # Computer Vision
 
-## Network architecture
+## Network Architecture
 
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
 
-## 2D object detection
+## 2D Object Detection
 
 ### Algorithm
 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
-## 3D segmentation
+## 3D Segmentation
 
 ### Algorithm
 
@@ -42,7 +43,7 @@
 
 ## Grasping
 
-### Grasping unknown objects
+### Grasping Unknown Objects
 
 * [Ranking the good points: A comprehensive method for humanoid robots to grasp unknown objects](http://poeticonpp.csri-web.org:8989/PoeticonPlus/publications/1342_Gori_etal2013.pdf) (**International Conference on Advanced Robotics** 2013)
 
@@ -57,4 +58,11 @@
 * [Grasping novel objects with depth segmentation](http://www.robotics.stanford.edu/~ang/papers/iros10-GraspingWithDepthSegmentation.pdf) (**IROS** 2010)
 
 * [3D scene segmentation for autonomous robot grasping](https://www.researchgate.net/publication/261353757_3D_scene_segmentation_for_autonomous_robot_grasping) (**IROS** 2012)
+
+### Grasping Points Selection
+* [GP-GPIS-OPT: Grasp planning with shape uncertainty using Gaussian process implicit surfaces and Sequential Convex Programming](http://rll.berkeley.edu/~sachin/papers/Mahler-ICRA2015.pdf) (**ICRA** 2015)
+
+* [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards](http://goldberg.berkeley.edu/pubs/icra16-submitted-Dex-Net.pdf) (**ICRA** 2016)
+
+* [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312) (**arxiv** 2017)
 
