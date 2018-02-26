@@ -32,6 +32,7 @@
 
 ### Algorithm
 
+* [Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) (**ICCV** 2015)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
 ## 2D Segmentation
