@@ -1,6 +1,7 @@
 # Content
 *   [Machine Learning](https://github.com/shinshiner/Paper-Survey#machine-learning)
     *   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
+    *   [Optimizer]()
 *   [Computer Vision](https://github.com/shinshiner/Paper-Survey#computer-vision)
     *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
     *   [2D Object Detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
@@ -8,7 +9,9 @@
     *   [2D Segmentation](https://github.com/shinshiner/Paper-Survey#2d-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-1)
     *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
-        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
+*   [Reinforcement Learning]()
+    *   [Algorithm]()
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
@@ -21,6 +24,10 @@
 ## Neural Network
 
 * [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
+
+## Optimizer
+
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (**ICLR** 2015)
 
 # Computer Vision
 
@@ -47,6 +54,20 @@
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
 * [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
+
+# Reinforcement Learning
+
+## Environment
+
+* [MuJoCo: A physics engine for model-based control](http://ieeexplore.ieee.org/abstract/document/6386109/?reload=true) (**International Conference on Intelligent Robots and Systems** 2012)
+* [OpenAI Gym](https://arxiv.org/abs/1606.01540) (**arxiv** 2016)
+
+## Algorithm
+
+* [Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
+* [Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
+* [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
+
 
 # Robot
 
