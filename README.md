@@ -41,6 +41,7 @@
 ### Algorithm
 
 * [Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) (**ICCV** 2015)
+
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
 ## 2D Segmentation
@@ -54,6 +55,7 @@
 ### Algorithm
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
+
 * [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
 # Reinforcement Learning
@@ -61,14 +63,25 @@
 ## Environment
 
 * [MuJoCo: A physics engine for model-based control](http://ieeexplore.ieee.org/abstract/document/6386109/?reload=true) (**International Conference on Intelligent Robots and Systems** 2012)
+
 * [OpenAI Gym](https://arxiv.org/abs/1606.01540) (**arxiv** 2016)
 
 ## Algorithm
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
 
 * [Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
+
 * [Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
+
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (**ICML** 2016)
+
+* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (**ICLR** 2016)
+
 * [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
 
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (**arxiv** 2017)
+
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (**arxiv** 2017)
 
 # Robot
 
