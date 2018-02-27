@@ -40,7 +40,7 @@
 
 ### Algorithm
 
-* [Rich feature hierarchies for accurate object detection and semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf?spm=5176.100239.blogcont55892.8.pm8zm1&file=Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) (**CVPR** 2014)
+* 【R-CNN】[Rich feature hierarchies for accurate object detection and semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf?spm=5176.100239.blogcont55892.8.pm8zm1&file=Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) (**CVPR** 2014)
 
 * [Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) (**ICCV** 2015)
 
@@ -71,19 +71,19 @@
 * [OpenAI Gym](https://arxiv.org/abs/1606.01540) (**arxiv** 2016)
 
 ## Algorithm
-* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
+* 【DQN】[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
 
 * [Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
 
-* [Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
+* 【TRPO】[Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
 
-* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (**ICML** 2016)
+* 【A3C】[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (**ICML** 2016)
 
-* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (**ICLR** 2016)
+* 【DDPG】[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (**ICLR** 2016)
 
 * [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
 
-* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (**arxiv** 2017)
+* 【PPO】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (**arxiv** 2017)
 
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (**arxiv** 2017)
 
