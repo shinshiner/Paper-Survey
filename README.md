@@ -19,6 +19,7 @@
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
+    *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
 
 # Machine Learning
 
@@ -34,7 +35,9 @@
 
 ## Network Architecture
 
-* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
+* 【VGG16】[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
+
+* 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
 
 ## 2D Object Detection
 
@@ -122,3 +125,4 @@
 
 * [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312) (**arxiv** 2017)
 
+## Active Perception
