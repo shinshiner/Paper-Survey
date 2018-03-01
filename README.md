@@ -49,7 +49,7 @@
 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
-* [You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) (**CVPR** 2016)
+* 【YOLO】[You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
 ## 2D Segmentation
 
@@ -60,6 +60,8 @@
 ## 3D Segmentation
 
 ### Algorithm
+
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (**openaccess.thecvf** 2017)
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
 
@@ -76,13 +78,15 @@
 ## Algorithm
 * 【DQN】[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
 
-* [Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
+* 【DPG】[Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
 
 * 【TRPO】[Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
 
 * 【A3C】[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (**ICML** 2016)
 
 * 【DDPG】[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (**ICLR** 2016)
+
+* 【NAF】[Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/abs/1603.00748) (**arxiv** 2016)
 
 * 【ACER】[Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224) (**arxiv** 2016)
 
