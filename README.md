@@ -81,11 +81,19 @@
 
 * 【DDPG】[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (**ICLR** 2016)
 
+* 【ACER】[Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224) (**arxiv** 2016)
+
+* 【GAIL】[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (**NPIS** 2016)
+
 * [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
 
 * 【PPO】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (**arxiv** 2017)
 
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (**arxiv** 2017)
+
+* 【ACKTR】[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144) (**NIPS** 2017)
+
+* 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NPIS** 2017)
 
 # Robot
 
