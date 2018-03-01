@@ -86,7 +86,7 @@
 
 * 【ACER】[Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224) (**arxiv** 2016)
 
-* 【GAIL】[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (**NPIS** 2016)
+* 【GAIL】[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (**NIPS** 2016)
 
 * [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
 
