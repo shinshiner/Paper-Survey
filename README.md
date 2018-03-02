@@ -29,6 +29,14 @@
 
 ## Optimizer
 
+* 【ASGD】[Acceleration of stochastic approximation by averaging](https://dl.acm.org/citation.cfm?id=131098) (**Journal** 1992)
+
+* 【Adagrad】[Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://jmlr.org/papers/v12/duchi11a.html) (**jmlr** 2011)
+
+* [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701) (**arxiv** 2012)
+
+* 【RMSprop】[Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850) (**arxiv** 2013)
+
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (**ICLR** 2015)
 
 # Computer Vision
