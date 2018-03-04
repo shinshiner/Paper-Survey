@@ -137,4 +137,6 @@
 
 * [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312) (**arxiv** 2017)
 
+* [Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets in Point Clouds using a New Analytic Model and Deep Learning](https://arxiv.org/abs/1709.06670) (**arxiv** 2017)
+
 ## Active Perception
