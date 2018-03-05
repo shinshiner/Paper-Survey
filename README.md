@@ -1,9 +1,10 @@
 # Content
-*   [Machine Learning](https://github.com/shinshiner/Paper-Survey#machine-learning)
-    *   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
+*   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
+    *   [Framework](https://github.com/shinshiner/Paper-Survey#framework)
+    *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
+    *   [Neural Network Component](https://github.com/shinshiner/Paper-Survey#neural-network-component)
     *   [Optimizer](https://github.com/shinshiner/Paper-Survey#optimizer)
 *   [Computer Vision](https://github.com/shinshiner/Paper-Survey#computer-vision)
-    *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
     *   [2D Object Detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
     *   [2D Segmentation](https://github.com/shinshiner/Paper-Survey#2d-segmentation)
@@ -21,15 +22,29 @@
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
     *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
 
-# Machine Learning
+# Neural Network
 
-## Neural Network
+## Framework
+
+* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) (**OSDI** 2016)
+
+## Network Architecture
+
+* 【VGG16】[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
+
+* 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
+
+* [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
+
+* [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
+
+## Neural Network Component
 
 * [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
 
 ## Optimizer
 
-* 【ASGD】[Acceleration of stochastic approximation by averaging](https://dl.acm.org/citation.cfm?id=131098) (**Journal** 1992)
+* 【ASGD】[Acceleration of stochastic approximation by averaging](https://dl.acm.org/citation.cfm?id=131098) (**Journals** 1992)
 
 * 【Adagrad】[Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://jmlr.org/papers/v12/duchi11a.html) (**jmlr** 2011)
 
@@ -40,12 +55,6 @@
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (**ICLR** 2015)
 
 # Computer Vision
-
-## Network Architecture
-
-* 【VGG16】[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
-
-* 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
 
 ## 2D Object Detection
 
@@ -108,7 +117,7 @@
 
 * 【ACKTR】[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144) (**NIPS** 2017)
 
-* 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NPIS** 2017)
+* 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NIPS** 2017)
 
 # Robot
 
