@@ -1,4 +1,8 @@
+The classification of articles may be inaccurate due to personal limited knowledge level. 
+
 # Content
+*   [Machine Learning](https://github.com/shinshiner/Paper-Survey#machine-learning)
+    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
 *   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
     *   [Framework](https://github.com/shinshiner/Paper-Survey#framework)
     *   [Network Architecture](https://github.com/shinshiner/Paper-Survey#network-architecture)
@@ -6,14 +10,16 @@
     *   [Optimizer](https://github.com/shinshiner/Paper-Survey#optimizer)
 *   [Computer Vision](https://github.com/shinshiner/Paper-Survey#computer-vision)
     *   [2D Object Detection](https://github.com/shinshiner/Paper-Survey#2d-object-detection)
-        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
-    *   [2D Segmentation](https://github.com/shinshiner/Paper-Survey#2d-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-1)
+    *   [2D Segmentation](https://github.com/shinshiner/Paper-Survey#2d-segmentation)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
     *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
-        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-3)
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
-    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-3)
+    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-4)
+*   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
+    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-5)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
@@ -21,6 +27,10 @@
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
     *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
+
+# Machine Learning
+
+## Algorithm
 
 # Neural Network
 
@@ -37,6 +47,8 @@
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
 * [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
+
+* 【Capsule】[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) (**NIPS** 2017)
 
 ## Neural Network Component
 
@@ -118,6 +130,12 @@
 * 【ACKTR】[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144) (**NIPS** 2017)
 
 * 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NIPS** 2017)
+
+# Meta Learning
+
+## Algorithm
+
+* 【MAML】[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (**arxiv** 2017)
 
 # Robot
 
