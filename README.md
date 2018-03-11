@@ -15,11 +15,15 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-2)
     *   [3D Segmentation](https://github.com/shinshiner/Paper-Survey#3d-segmentation)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-3)
+    *   [2D Pose](https://github.com/shinshiner/Paper-Survey#2d-pose)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-4)
+    *   [3D Pose](https://github.com/shinshiner/Paper-Survey#3d-pose)
+        *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-5)
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
-    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-4)
+    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-6)
 *   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
-    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-5)
+    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
@@ -31,6 +35,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 # Machine Learning
 
 ## Algorithm
+
+* 【PCA】[Singular value decomposition and principal component analysis](https://link.springer.com/chapter/10.1007%2F0-306-47815-3_5) (**Springer** 2003)
+
+* 【SVM】[Least squares support vector machine classifiers](https://lirias.kuleuven.be/bitstream/123456789/218716/2/Suykens_NeurProcLett.pdf) (**Springer** 1999)
 
 # Neural Network
 
@@ -53,6 +61,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 ## Neural Network Component
 
 * [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
+
+* [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (**jmlr** 2014)
 
 ## Optimizer
 
@@ -96,6 +106,24 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
+## 2D Pose
+
+### Algorithm
+
+* 【open pose】[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
+* 【G-RMI】[Towards accurate multi-person pose estimation in the wild](http://openaccess.thecvf.com/content_cvpr_2017/papers/Papandreou_Towards_Accurate_Multi-Person_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
+* [Joint Multi-Person Pose Estimation and Semantic Part Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xia_Joint_Multi-Person_Pose_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
+* [RMPE: Regional Multi-Person Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.pdf) (**ICCV** 2017)
+
+## 3D Pose
+
+### Algorithm
+
+* [Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
 # Reinforcement Learning
 
 ## Environment
@@ -105,6 +133,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [OpenAI Gym](https://arxiv.org/abs/1606.01540) (**arxiv** 2016)
 
 ## Algorithm
+
 * 【DQN】[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
 
 * 【DPG】[Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
