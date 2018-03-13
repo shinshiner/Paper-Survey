@@ -44,6 +44,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Framework
 
+* [Torch7: A MATLAB-like environment for machine learning](https://infoscience.epfl.ch//record/192376/files/Collobert_NIPSWORKSHOP_2011.pdf) (**NIPS workshop** 2011)
+
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](https://dl.acm.org/citation.cfm?id=2654889) (**arxiv** 2014)
+
 * [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) (**OSDI** 2016)
 
 ## Network Architecture
@@ -51,6 +55,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【VGG16】[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
 
 * 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
+
+* 【STN】[Recurrent Spatial Transformer Networks](https://arxiv.org/abs/1509.05329) (**arxiv** 2015)
 
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
