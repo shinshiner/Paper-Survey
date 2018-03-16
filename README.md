@@ -26,6 +26,7 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
+        *   [Grasping with RL](https://github.com/shinshiner/Paper-Survey#grasping-with-rl)
         *   [Grasping Unknown Objects](https://github.com/shinshiner/Paper-Survey#grasping-unknown-objects)
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
@@ -58,6 +59,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【STN】[Recurrent Spatial Transformer Networks](https://arxiv.org/abs/1509.05329) (**arxiv** 2015)
 
+* 【FCN】[Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) (**cv-foundation** 2015)
+
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
 * [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
@@ -66,7 +69,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Neural Network Component
 
-* [Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
+* 【ReLu】[Rectified Linear Units Improve Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf) (**ICML** 2010)
 
 * [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (**jmlr** 2014)
 
@@ -95,6 +98,14 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
 * 【YOLO】[You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) (**CVPR** 2016)
+
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (**openaccess.thecvf** 2017)
+
+* [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) (**ECCV** 2016)
+
+* 【RetinaNet】[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (**ICCV** 2017)
+
+* [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409) (**NIPS** 2016)
 
 ## 2D Segmentation
 
@@ -138,6 +149,14 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [OpenAI Gym](https://arxiv.org/abs/1606.01540) (**arxiv** 2016)
 
+* 【rllab】[Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) (**jmlr** 2016)
+
+* [DeepMind Lab](https://arxiv.org/abs/1612.03801) (**arxiv** 2016)
+
+* [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/abs/1708.04782) (**arxiv** 2017)
+
+* [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600) (**arxiv** 2017)
+
 ## Algorithm
 
 * 【DQN】[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
@@ -175,6 +194,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 # Robot
 
 ## Grasping
+
+### Grasping with RL
 
 ### Grasping Unknown Objects
 
