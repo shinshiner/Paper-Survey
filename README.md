@@ -23,7 +23,7 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-6)
 *   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
-    *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
+    *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping with RL](https://github.com/shinshiner/Paper-Survey#grasping-with-rl)
@@ -61,6 +61,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【FCN】[Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) (**cv-foundation** 2015)
 
+* 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](http://ieeexplore.ieee.org/abstract/document/7410867/) (**ICCV** 2015)
+
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
 * [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
@@ -73,6 +75,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (**jmlr** 2014)
 
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) (**ICML** 2015)
+
+* [Group Normalization](https://arxiv.org/abs/1803.08494) (**arxiv** 2018)
+
 ## Optimizer
 
 * 【ASGD】[Acceleration of stochastic approximation by averaging](https://dl.acm.org/citation.cfm?id=131098) (**Journals** 1992)
@@ -84,6 +90,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【RMSprop】[Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850) (**arxiv** 2013)
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (**ICLR** 2015)
+
+* [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474) (**NIPS** 2016)
 
 # Computer Vision
 
@@ -134,6 +142,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [Joint Multi-Person Pose Estimation and Semantic Part Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xia_Joint_Multi-Person_Pose_CVPR_2017_paper.pdf) (**CVPR** 2017)
 
 * [RMPE: Regional Multi-Person Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.pdf) (**ICCV** 2017)
+
+* [Vnect: Real-time 3d human pose estimation with a single rgb camera](https://dl.acm.org/citation.cfm?id=3073596) (**SIGGRAPH** 2017)
 
 ## 3D Pose
 
@@ -187,9 +197,11 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 # Meta Learning
 
-## Algorithm
+## Algorithm or Model
 
 * 【MAML】[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (**arxiv** 2017)
+
+* [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/forum?id=rJY0-Kcll&noteId=ryq49XyLg) (**ICLR** 2017)
 
 # Robot
 
