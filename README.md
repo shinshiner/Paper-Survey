@@ -77,6 +77,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) (**ICML** 2015)
 
+* 【center loss】[A Discriminative Feature Learning Approach for Deep Face Recognition](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_31) (**ECCV** 2016)
+
 * [Group Normalization](https://arxiv.org/abs/1803.08494) (**arxiv** 2018)
 
 ## Optimizer
@@ -105,15 +107,23 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (**NIPS** 2015)
 
+* [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) (**ECCV** 2016)
+
+* [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409) (**NIPS** 2016)
+
+
 * 【YOLO】[You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
 * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (**openaccess.thecvf** 2017)
 
-* [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) (**ECCV** 2016)
+* [FSSD: Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1712.00960) (**arxiv** 2017)
+
+* 【RFB-SSD】[Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/abs/1711.07767) (**arxiv** 2017)
+
+* 【RefineDet】[Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/abs/1711.06897) (**arxiv** 2017)
 
 * 【RetinaNet】[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (**ICCV** 2017)
 
-* [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409) (**NIPS** 2016)
 
 ## 2D Segmentation
 
