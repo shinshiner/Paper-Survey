@@ -37,9 +37,9 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Algorithm
 
-* 【PCA】[Singular value decomposition and principal component analysis](https://link.springer.com/chapter/10.1007%2F0-306-47815-3_5) (**Springer** 2003)
-
 * 【SVM】[Least squares support vector machine classifiers](https://lirias.kuleuven.be/bitstream/123456789/218716/2/Suykens_NeurProcLett.pdf) (**Springer** 1999)
+
+* 【PCA】[Singular value decomposition and principal component analysis](https://link.springer.com/chapter/10.1007%2F0-306-47815-3_5) (**Springer** 2003)
 
 # Neural Network
 
@@ -53,9 +53,11 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Network Architecture
 
+* [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
+
 * 【VGG16】[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) (**arxiv** 2014)
 
-* 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) (**arxiv** 2015)
 
 * 【STN】[Recurrent Spatial Transformer Networks](https://arxiv.org/abs/1509.05329) (**arxiv** 2015)
 
@@ -63,11 +65,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](http://ieeexplore.ieee.org/abstract/document/7410867/) (**ICCV** 2015)
 
+* 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
+
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
-* [Long Short Term Memory Network](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735) (**Journals** 1997)
-
 * 【Capsule】[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) (**NIPS** 2017)
+
+* 【PSMNet】[Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) (**CVPR** 2018)
 
 ## Neural Network Component
 
@@ -122,8 +126,9 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【RefineDet】[Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/abs/1711.06897) (**arxiv** 2017)
 
-* 【RetinaNet】[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (**ICCV** 2017)
+* 【RetinaNet / Focal Loss】[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (**ICCV** 2017)
 
+* [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) (**??** 2018)
 
 ## 2D Segmentation
 
@@ -179,11 +184,17 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Algorithm
 
+* [Q-learning](https://link.springer.com/article/10.1007/BF00992698) (**Springer** 1992)
+
 * 【DQN】[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (**NIPS workshop** 2013)
 
 * 【DPG】[Deterministic Policy Gradient Algorithms](https://hal.inria.fr/hal-00938992/) (**ICML** 2014)
 
 * 【TRPO】[Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf) (**ICML** 2015)
+
+* 【Double-DQN】[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) (**AAAI** 2016)
+
+* 【h-DQN】[Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057) (**NIPS** 2016)
 
 * 【A3C】[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (**ICML** 2016)
 
@@ -195,6 +206,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【GAIL】[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (**NIPS** 2016)
 
+* [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (**arxiv** 2017)
+
 * [Q-PROP: SAMPLE-EFFICIENT POLICY GRADIENT WITH AN OFF-POLICY CRITIC](https://arxiv.org/abs/1611.02247) (**ICLR** 2017)
 
 * 【PPO】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (**arxiv** 2017)
@@ -204,6 +217,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【ACKTR】[Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144) (**NIPS** 2017)
 
 * 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NIPS** 2017)
+
+* [Noisy Networks for Exploration]() (**ICLR** 2018)
 
 # Meta Learning
 
