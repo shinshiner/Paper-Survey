@@ -22,9 +22,12 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-5)
     *   [3D Pose](https://github.com/shinshiner/Paper-Survey#3d-pose)
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-6)
+    *   [Video](https://github.com/shinshiner/Paper-Survey#video)
+        *   [Segmentation](https://github.com/shinshiner/Paper-Survey#segmentation)
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
+    *   [Distributional RL](https://github.com/shinshiner/Paper-Survey#distributional-rl)
 *   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
     *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
@@ -67,13 +70,19 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【FCN】[Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) (**cv-foundation** 2015)
 
+* [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf) (**cv-foundation** 2015)
+
 * 【C3D】[Learning Spatiotemporal Features with 3D Convolutional Networks](http://ieeexplore.ieee.org/abstract/document/7410867/) (**ICCV** 2015)
 
 * 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
 
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
+* 【SPN】[Learning Affinity via Spatial Propagation Networks](http://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks) (**NIPS** 2017)
+
 * 【Capsule】[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) (**NIPS** 2017)
+
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) (**arxiv** 2017)
 
 * [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199) (**arxiv** 2017)
 
@@ -189,6 +198,14 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.pdf) (**CVPR** 2017)
 
+## Video
+
+### Segmentation
+
+* [Learning to Segment Instances in Videos with Spatial Propagation Network](https://arxiv.org/abs/1709.04609) (**CVPR Workshop 2017**)
+
+* [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_SegFlow_Joint_Learning_ICCV_2017_paper.pdf) (**openaccess.thecvf** 2017)
+
 # Reinforcement Learning
 
 ## Environment
@@ -241,7 +258,11 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NIPS** 2017)
 
-* [Noisy Networks for Exploration]() (**ICLR** 2018)
+* [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) (**ICLR** 2018)
+
+## Distributional RL
+
+* [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887) (**arxiv** 2017)
 
 # Meta Learning
 
