@@ -24,6 +24,7 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-6)
     *   [Video](https://github.com/shinshiner/Paper-Survey#video)
         *   [Segmentation](https://github.com/shinshiner/Paper-Survey#segmentation)
+        *   [Motion Representation](https://github.com/shinshiner/Paper-Survey#motion-representation)
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
@@ -122,11 +123,19 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [ImageNet: A large-scale hierarchical image database](http://ieeexplore.ieee.org/abstract/document/5206848/) (**CVPR** 2009)
 
+* 【KITTI】[Vision meets robotics: The KITTI dataset](http://journals.sagepub.com/doi/full/10.1177/0278364913491297) (**IJRR** 2013)
+
+* 【Daimler Urban Segmentation】[Efficient Multi-Cue Scene Segmentation](http://pdfs.semanticscholar.org/bb9b/45f4b97935a95272c409d212589bc2a9a0cc.pdf) (**GCPR** 2013)
+
+* 【Pascal Context】[The Role of Context for Object Detection and Semantic Segmentation in the Wild](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Mottaghi_The_Role_of_2014_CVPR_paper.pdf) (**CVPR** 2014)
+
 * 【Pascal VOC】[The Pascal Visual Object Classes Challenge: A Retrospective](https://link.springer.com/article/10.1007/s11263-014-0733-5) (**IJCV** 2014)
 
 * 【COCO】[Microsoft COCO: Common Objects in Context](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48) (**ECCV** 2014)
 
 * 【ILSVRC】[ImageNet Large Scale Visual Recognition Challenge](https://link.springer.com/article/10.1007/s11263-015-0816-y) (**IJCV** 2015)
+
+* 【Cityscapes】[The Cityscapes Dataset for Semantic Urban Scene Understanding](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
 ## 2D Object Detection
 
@@ -168,6 +177,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) (**ICCV** 2017)
 
+* [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) (**CVPR workshop** 2017)
+
 ## 3D Segmentation
 
 ### Algorithm
@@ -202,9 +213,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ### Segmentation
 
-* [Learning to Segment Instances in Videos with Spatial Propagation Network](https://arxiv.org/abs/1709.04609) (**CVPR Workshop 2017**)
+* [Learning to Segment Instances in Videos with Spatial Propagation Network](https://arxiv.org/abs/1709.04609) (**CVPR workshop 2017**)
 
 * [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_SegFlow_Joint_Learning_ICCV_2017_paper.pdf) (**openaccess.thecvf** 2017)
+
+### Motion Representation
+
+* 【TVnet】[End-to-End Learning of Motion Representation for Video Understanding](https://arxiv.org/abs/1804.00413) (**CVPR** 2018)
 
 # Reinforcement Learning
 
