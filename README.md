@@ -85,6 +85,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) (**arxiv** 2017)
 
+* [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/abs/1711.05769) (**arxiv** 2017)
+
 * [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/abs/1711.00199) (**arxiv** 2017)
 
 * 【PSMNet】[Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) (**CVPR** 2018)
@@ -161,6 +163,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【RefineDet】[Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/abs/1711.06897) (**arxiv** 2017)
 
+* [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/abs/1711.07240) (**arxiv** 2017)
+
+* [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/abs/1711.07264) (**arxiv** 2017)
+
 * 【RetinaNet / Focal Loss】[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (**ICCV** 2017)
 
 * [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) (**??** 2018)
@@ -175,9 +181,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ### Algorithm
 
+* [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/abs/1512.04412) (**CVPR** 2016)
+
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) (**ICCV** 2017)
 
 * [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) (**CVPR workshop** 2017)
+
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081) (**CVPR** 2018)
 
 ## 3D Segmentation
 
@@ -202,6 +212,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [RMPE: Regional Multi-Person Pose Estimation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.pdf) (**ICCV** 2017)
 
 * [Vnect: Real-time 3d human pose estimation with a single rgb camera](https://dl.acm.org/citation.cfm?id=3073596) (**SIGGRAPH** 2017)
+
+* 【CPN】[Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319) (**CVPR** 2018)
 
 ## 3D Pose
 
@@ -286,6 +298,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【MAML】[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (**arxiv** 2017)
 
 * [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/forum?id=rJY0-Kcll&noteId=ryq49XyLg) (**ICLR** 2017)
+
+* 【SNAIL】[A Simple Neural Attentive Meta-Learner](https://openreview.net/forum?id=B1DmUzWAW&noteId=B1DmUzWAW) (**ICLR** 2018)
 
 # Robot
 
