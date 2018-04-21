@@ -26,9 +26,12 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Segmentation](https://github.com/shinshiner/Paper-Survey#segmentation)
         *   [Motion Representation](https://github.com/shinshiner/Paper-Survey#motion-representation)
 *   [Generative Model](https://github.com/shinshiner/Paper-Survey#generative-model)
-    *   [VAE (Variational Auto-Encoder)]()
-        *   [CVAE](https://github.com/shinshiner/Paper-Survey#cvae)
-    *   [GAN (Generative Adversarial Networks)]()
+    *   [VAE (Variational Auto-Encoder)](https://github.com/shinshiner/Paper-Survey#vae-variational-auto-encoder)
+        *   [Models](https://github.com/shinshiner/Paper-Survey#models)
+        *   [Applications](https://github.com/shinshiner/Paper-Survey#applications)
+    *   [GAN (Generative Adversarial Networks)](https://github.com/shinshiner/Paper-Survey#gan-generative-adversarial-networks)
+    	*   [Models](https://github.com/shinshiner/Paper-Survey#models-1)
+        *   [Applications](https://github.com/shinshiner/Paper-Survey#applications-1)
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
@@ -96,6 +99,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【PSMNet】[Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669) (**CVPR** 2018)
 
 * [PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image](http://art-programmer.github.io/planenet/paper.pdf) (**CVPR** 2018)
+
+* [SBNet: Sparse Blocks Network for Fast Inference](https://arxiv.org/abs/1801.02108) (**arxiv** 2018)
 
 ## Neural Network Component
 
@@ -241,11 +246,25 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## VAE (Variational Auto-Encoder)
 
-### CVAE
+### Models
+
+### Applications
 
 * [Attribute2Image: Conditional Image Generation from Visual Attributes](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_47) (**ECCV** 2016)
 
 ## GAN (Generative Adversarial Networks)
+
+### Models
+
+* 【GAN】[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (**NIPS** 2014)
+
+* 【CGAN】[Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) (**arxiv** 2014)
+
+* 【AAE】[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) (**arxiv** 2015)
+
+* 【DCGAN】[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) (**arxiv** 2015)
+
+### Applications
 
 # Reinforcement Learning
 
