@@ -25,6 +25,10 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Video](https://github.com/shinshiner/Paper-Survey#video)
         *   [Segmentation](https://github.com/shinshiner/Paper-Survey#segmentation)
         *   [Motion Representation](https://github.com/shinshiner/Paper-Survey#motion-representation)
+*   [Generative Model](https://github.com/shinshiner/Paper-Survey#generative-model)
+    *   [VAE (Variational Auto-Encoder)]()
+        *   [CVAE](https://github.com/shinshiner/Paper-Survey#cvae)
+    *   [GAN (Generative Adversarial Networks)]()
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
@@ -232,6 +236,16 @@ The classification of articles may be inaccurate due to personal limited knowled
 ### Motion Representation
 
 * 【TVnet】[End-to-End Learning of Motion Representation for Video Understanding](https://arxiv.org/abs/1804.00413) (**CVPR** 2018)
+
+# Generative Model
+
+## VAE (Variational Auto-Encoder)
+
+### CVAE
+
+* [Attribute2Image: Conditional Image Generation from Visual Attributes](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_47) (**ECCV** 2016)
+
+## GAN (Generative Adversarial Networks)
 
 # Reinforcement Learning
 
