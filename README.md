@@ -35,6 +35,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 *   [Reinforcement Learning](https://github.com/shinshiner/Paper-Survey#reinforcement-learning)
     *   [Environment](https://github.com/shinshiner/Paper-Survey#environment)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
+    *	[RL in Games](https://github.com/shinshiner/Paper-Survey#rl-in-games)
     *   [Distributional RL](https://github.com/shinshiner/Paper-Survey#distributional-rl)
 *   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
     *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
@@ -320,6 +321,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【HER】[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (**NIPS** 2017)
 
 * [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) (**ICLR** 2018)
+
+## RL in Games
+
+* [Control of Memory, Active Perception, and Action in Minecraft](https://arxiv.org/abs/1605.09128) (**arxiv** 2016)
 
 ## Distributional RL
 
