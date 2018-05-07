@@ -39,6 +39,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 *   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
     *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
+	*	[Dataset](https://github.com/shinshiner/Paper-Survey#dataset-1)
 	*	[Hardware](https://github.com/shinshiner/Paper-Survey#hardware)
     *   [Grasping](https://github.com/shinshiner/Paper-Survey#grasping)
         *   [Grasping with RL](https://github.com/shinshiner/Paper-Survey#grasping-with-rl)
@@ -339,6 +340,12 @@ The classification of articles may be inaccurate due to personal limited knowled
 ## Hardware
 
 ## Grasping
+
+## Dataset
+
+* [Deep Grasp: Detection and Localization of Grasps with Deep Neural Networks](https://arxiv.org/abs/1802.00520) (**arxiv** 2018)
+
+* [Jacquard: A Large Scale Dataset for Robotic Grasp Detection](https://arxiv.org/abs/1803.11469) (**arxiv** 2018)
 
 ### Grasping with RL
 
