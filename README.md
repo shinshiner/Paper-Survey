@@ -37,8 +37,9 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
     *	[RL in Games](https://github.com/shinshiner/Paper-Survey#rl-in-games)
     *   [Distributional RL](https://github.com/shinshiner/Paper-Survey#distributional-rl)
-*   [Meta Learning](https://github.com/shinshiner/Paper-Survey#meta-learning)
+*   [Transfer Learning & Meta Learning](https://github.com/shinshiner/Paper-Survey#transfer-learning-&-meta-learning)
     *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
+    *   [Zero Shot Learning](https://github.com/shinshiner/Paper-Survey#zero-shot-learning)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
 	*	[Dataset](https://github.com/shinshiner/Paper-Survey#dataset-1)
 	*	[Hardware](https://github.com/shinshiner/Paper-Survey#hardware)
@@ -330,7 +331,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887) (**arxiv** 2017)
 
-# Meta Learning
+# Transfer Learning & Meta Learning
 
 ## Algorithm or Model
 
@@ -339,6 +340,12 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/forum?id=rJY0-Kcll&noteId=ryq49XyLg) (**ICLR** 2017)
 
 * 【SNAIL】[A Simple Neural Attentive Meta-Learner](https://openreview.net/forum?id=B1DmUzWAW&noteId=B1DmUzWAW) (**ICLR** 2018)
+
+## Zero Shot Learning
+
+* [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://web.stanford.edu/~yukez/papers/isrr2017.pdf) (**isrr** 2017)
+
+* [Zero-Shot Object Detection](https://arxiv.org/abs/1804.04340) (**arxiv** 2018)
 
 # Robot
 
