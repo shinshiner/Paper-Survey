@@ -149,6 +149,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【ILSVRC】[ImageNet Large Scale Visual Recognition Challenge](https://link.springer.com/article/10.1007/s11263-015-0816-y) (**IJCV** 2015)
 
+* 【ModelNet40】[3D ShapeNets: A Deep Representation for Volumetric Shapes](https://pdfs.semanticscholar.org/3ed2/3386284a5639cb3e8baaecf496caa766e335.pdf) (**CVPR** 2015) Dataset is available at [\[website\]](http://modelnet.cs.princeton.edu/).
+
 * 【Cityscapes】[The Cityscapes Dataset for Semantic Urban Scene Understanding](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
 * 【ScanNet】[ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://arxiv.org/pdf/1702.04405.pdf) (**CVPR workshop** 2018)
@@ -207,13 +209,19 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ### Algorithm
 
-* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (**openaccess.thecvf** 2017)
+* [Deep learning with sets and point clouds](http://arxiv.org/pdf/1611.04500.pdf) (**ICLR** 2017)
+
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
+* [3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues](http://arxiv.org/pdf/1711.11379.pdf) (**CVPR** 2017)
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
 
+* [Escape from cells: Deep kd-networks for the recognition of 3d point cloud models](http://openaccess.thecvf.com/content_ICCV_2017/papers/Klokov_Escape_From_Cells_ICCV_2017_paper.pdf) (**ICCV** 2017)
+
 * 【PointSIFT】[PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/1807.00652) (**arxiv** 2018)
 
-* [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
+* 【Kd-network】[PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
 ## 2D Pose
 
