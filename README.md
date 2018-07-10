@@ -37,7 +37,7 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm-7)
     *	[RL in Games](https://github.com/shinshiner/Paper-Survey#rl-in-games)
     *   [Distributional RL](https://github.com/shinshiner/Paper-Survey#distributional-rl)
-*   [Transfer Learning & Meta Learning](https://github.com/shinshiner/Paper-Survey#transfer-learning-&-meta-learning)
+*   [Transfer Learning & Meta Learning](https://github.com/shinshiner/Paper-Survey#transfer-learning--meta-learning)
     *   [Algorithm or Model](https://github.com/shinshiner/Paper-Survey#algorithm-or-model)
     *   [Zero Shot Learning](https://github.com/shinshiner/Paper-Survey#zero-shot-learning)
 *   [Robot](https://github.com/shinshiner/Paper-Survey#robot)
@@ -151,6 +151,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【Cityscapes】[The Cityscapes Dataset for Semantic Urban Scene Understanding](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
+* 【ScanNet】[ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://arxiv.org/pdf/1702.04405.pdf) (**CVPR workshop** 2018)
+
 ## 2D Object Detection
 
 ### Algorithm
@@ -208,6 +210,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (**openaccess.thecvf** 2017)
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
+
+* 【PointSIFT】[PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/1807.00652) (**arxiv** 2018)
 
 * [PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
