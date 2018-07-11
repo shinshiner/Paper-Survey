@@ -1,6 +1,8 @@
 The classification of articles may be inaccurate due to personal limited knowledge level. 
 
 # Content
+*   [Data Structure](https://github.com/shinshiner/Paper-Survey#data-structure)
+    *   [Tree](https://github.com/shinshiner/Paper-Survey#tree)
 *   [Machine Learning](https://github.com/shinshiner/Paper-Survey#machine-learning)
     *   [Algorithm](https://github.com/shinshiner/Paper-Survey#algorithm)
 *   [Neural Network](https://github.com/shinshiner/Paper-Survey#neural-network)
@@ -50,6 +52,14 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
     *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
+
+# Data Structure
+
+## Tree
+
+* 【Kd-tree】[Multidimensional binary search trees used for associative searching](https://dl.acm.org/citation.cfm?id=361007) (1975)
+
+* 【Oc-tree】[Octree encoding: A new technique for the representation, manipulation and display of arbitrary 3-d objects by computer](https://www.researchgate.net/publication/238720460_Octree_Encoding_A_New_Technique_for_the_Representation_Manipulation_and_Display_of_Arbitrary_3-D_Objects_by_Computer) (1980)
 
 # Machine Learning
 
@@ -137,6 +147,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [ImageNet: A large-scale hierarchical image database](http://ieeexplore.ieee.org/abstract/document/5206848/) (**CVPR** 2009)
 
+* 【NYUV2】[Indoor segmentation and support inference from rgbd images](https://link.springer.com/chapter/10.1007%2F978-3-642-33715-4_54) (**ECCV** 2012)
+
 * 【KITTI】[Vision meets robotics: The KITTI dataset](http://journals.sagepub.com/doi/full/10.1177/0278364913491297) (**IJRR** 2013)
 
 * 【Daimler Urban Segmentation】[Efficient Multi-Cue Scene Segmentation](http://pdfs.semanticscholar.org/bb9b/45f4b97935a95272c409d212589bc2a9a0cc.pdf) (**GCPR** 2013)
@@ -152,6 +164,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【ModelNet40】[3D ShapeNets: A Deep Representation for Volumetric Shapes](https://pdfs.semanticscholar.org/3ed2/3386284a5639cb3e8baaecf496caa766e335.pdf) (**CVPR** 2015) Dataset is available at [\[website\]](http://modelnet.cs.princeton.edu/).
 
 * 【Cityscapes】[The Cityscapes Dataset for Semantic Urban Scene Understanding](http://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) (**CVPR** 2016)
+
+* 【S3DIS】[3d semantic parsing of largescale indoor spaces](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Armeni_3D_Semantic_Parsing_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
 * 【ScanNet】[ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://arxiv.org/pdf/1702.04405.pdf) (**CVPR workshop** 2018)
 
@@ -222,6 +236,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 * 【PointSIFT】[PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/1807.00652) (**arxiv** 2018)
 
 * 【Kd-network】[PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
+
+* 【SO-Net】[SO-Net: Self-Organizing Network for Point Cloud Analysis](http://arxiv.org/pdf/1803.04249.pdf) (**CVPR** 2018)
+
+* [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](http://arxiv.org/pdf/1711.08588.pdf) (**CVPR** 2018)
 
 ## 2D Pose
 
