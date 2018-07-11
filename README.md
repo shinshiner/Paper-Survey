@@ -167,7 +167,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【S3DIS】[3d semantic parsing of largescale indoor spaces](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Armeni_3D_Semantic_Parsing_CVPR_2016_paper.pdf) (**CVPR** 2016)
 
-* 【ScanNet】[ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](http://arxiv.org/pdf/1702.04405.pdf) (**CVPR workshop** 2018)
+* 【ScanNet】[ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](https://arxiv.org/pdf/1702.04405.pdf) (**CVPR workshop** 2018)
 
 ## 2D Object Detection
 
@@ -211,9 +211,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ### Algorithm
 
+* 【U-Net】[U-net: Convolutional networks for biomedical image segmentation](http://www.cs.cmu.edu/~jeanoh/16-785/papers/ronnenberger-miccai2015-u-net.pdf) (**arxiv** 2015)
+
 * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/abs/1512.04412) (**CVPR** 2016)
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) (**ICCV** 2017)
+
+* 【W-Net】[W-Net: A Deep Model for Fully Unsupervised Image Segmentation](https://arxiv.org/pdf/1711.08506.pdf) (**arxiv** 2017)
 
 * [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) (**CVPR workshop** 2017)
 
@@ -223,11 +227,11 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ### Algorithm
 
-* [Deep learning with sets and point clouds](http://arxiv.org/pdf/1611.04500.pdf) (**ICLR** 2017)
+* [Deep learning with sets and point clouds](https://arxiv.org/pdf/1611.04500.pdf) (**ICLR** 2017)
 
 * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) (**CVPR** 2017)
 
-* [3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues](http://arxiv.org/pdf/1711.11379.pdf) (**CVPR** 2017)
+* [3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local and Global Contextual Cues](https://arxiv.org/pdf/1711.11379.pdf) (**CVPR** 2017)
 
 * [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413) (**NIPS** 2017)
 
@@ -237,9 +241,9 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【Kd-network】[PointCNN](https://arxiv.org/abs/1801.07791) (**arxiv** 2018)
 
-* 【SO-Net】[SO-Net: Self-Organizing Network for Point Cloud Analysis](http://arxiv.org/pdf/1803.04249.pdf) (**CVPR** 2018)
+* 【SO-Net】[SO-Net: Self-Organizing Network for Point Cloud Analysis](https://arxiv.org/pdf/1803.04249.pdf) (**CVPR** 2018)
 
-* [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](http://arxiv.org/pdf/1711.08588.pdf) (**CVPR** 2018)
+* [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](https://arxiv.org/pdf/1711.08588.pdf) (**CVPR** 2018)
 
 ## 2D Pose
 
@@ -383,7 +387,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 ## Grasping
 
-## Dataset
+### Dataset
 
 * [Deep Grasp: Detection and Localization of Grasps with Deep Neural Networks](https://arxiv.org/abs/1802.00520) (**arxiv** 2018)
 
@@ -397,7 +401,11 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8693/86930659.pdf) (**European Conference on Computer Vision** 2014)
 
+* [Pick and Place Without Geometric Object Models](https://arxiv.org/pdf/1707.05615.pdf) (**ICRA** 2018)
+
 ### Grasping in Cluttered Environment
+
+* 【GPD】[High precision grasp pose detection in dense clutter](https://arxiv.org/pdf/1603.01564.pdf) (**IROS** 2016)
 
 * [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching](http://vision.princeton.edu/projects/2017/arc/paper.pdf) (**arxiv** 2017)
 
@@ -408,7 +416,10 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [3D scene segmentation for autonomous robot grasping](https://www.researchgate.net/publication/261353757_3D_scene_segmentation_for_autonomous_robot_grasping) (**IROS** 2012)
 
 ### Grasping Points Selection
+
 * [GP-GPIS-OPT: Grasp planning with shape uncertainty using Gaussian process implicit surfaces and Sequential Convex Programming](http://rll.berkeley.edu/~sachin/papers/Mahler-ICRA2015.pdf) (**ICRA** 2015)
+
+* [Using Geometry to Detect Grasp Poses in 3D Point Clouds](http://www.ccs.neu.edu/home/atp/publications/grasp_poses_isrr2015.pdf) (**ISRR** 2015)
 
 * [Dex-Net 1.0: A Cloud-Based Network of 3D Objects for Robust Grasp Planning Using a Multi-Armed Bandit Model with Correlated Rewards](http://goldberg.berkeley.edu/pubs/icra16-submitted-Dex-Net.pdf) (**ICRA** 2016)
 
