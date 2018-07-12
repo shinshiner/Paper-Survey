@@ -97,6 +97,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【ResNet】[Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (**openaccess.thecvf** 2016)
 
+* 【GCN】[Semi-supervised classification with graph convolutional networks](https://arxiv.org/pdf/1609.02907.pdf) (**ICLR** 2017)
+
 * [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) (**arxiv** 2017)
 
 * 【SPN】[Learning Affinity via Spatial Propagation Networks](http://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks) (**NIPS** 2017)
@@ -380,6 +382,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://web.stanford.edu/~yukez/papers/isrr2017.pdf) (**isrr** 2017)
 
 * [Zero-Shot Object Detection](https://arxiv.org/abs/1804.04340) (**arxiv** 2018)
+
+* [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://arxiv.org/pdf/1803.08035.pdf) (**CVPR** 2018)
 
 # Robot
 
