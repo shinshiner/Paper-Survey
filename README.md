@@ -221,9 +221,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【W-Net】[W-Net: A Deep Model for Fully Unsupervised Image Segmentation](https://arxiv.org/pdf/1711.08506.pdf) (**arxiv** 2017)
 
+* 【RefineNet】[RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_RefineNet_Multi-Path_Refinement_CVPR_2017_paper.pdf) (**CVPR** 2017)
+
 * [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) (**CVPR workshop** 2017)
 
 * [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081) (**CVPR** 2018)
+
+* [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/pdf/1804.00880.pdf) (**CVPR** 2018)
 
 ## 3D Segmentation
 
@@ -245,7 +249,9 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【SO-Net】[SO-Net: Self-Organizing Network for Point Cloud Analysis](https://arxiv.org/pdf/1803.04249.pdf) (**CVPR** 2018)
 
-* [SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](https://arxiv.org/pdf/1711.08588.pdf) (**CVPR** 2018)
+* 【SGPN】[SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation](https://arxiv.org/pdf/1711.08588.pdf) (**CVPR** 2018)
+
+* 【DGCNN】[Dynamic Graph CNN for Learning on Point Clouds](https://arxiv.org/pdf/1801.07829.pdf)
 
 ## 2D Pose
 
@@ -403,11 +409,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Ranking the good points: A comprehensive method for humanoid robots to grasp unknown objects](http://poeticonpp.csri-web.org:8989/PoeticonPlus/publications/1342_Gori_etal2013.pdf) (**International Conference on Advanced Robotics** 2013)
 
-* [Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8693/86930659.pdf) (**European Conference on Computer Vision** 2014)
+* [Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8693/86930659.pdf) (**ECCV** 2014)
 
 * [Pick and Place Without Geometric Object Models](https://arxiv.org/pdf/1707.05615.pdf) (**ICRA** 2018)
 
 ### Grasping in Cluttered Environment
+
+* [Real-Time 3D Segmentation of Cluttered Scenes for Robot Grasping](https://pub.uni-bielefeld.de/publication/2530701) (**ICHR** 2012)
 
 * 【GPD】[High precision grasp pose detection in dense clutter](https://arxiv.org/pdf/1603.01564.pdf) (**IROS** 2016)
 
