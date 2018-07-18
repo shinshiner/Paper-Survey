@@ -51,10 +51,10 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Grasping in Cluttered Environment](https://github.com/shinshiner/Paper-Survey#grasping-in-cluttered-environment)
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
-    *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
     *   [Machine Vision](https://github.com/shinshiner/Paper-Survey#machine-vision)
+        *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
         *   [Motion Prediction](https://github.com/shinshiner/Paper-Survey#motion-prediction)
-        *   [Vision via Interactive Manipulation](https://github.com/shinshiner/Paper-Survey#vision-via-interactive-manipulation)
+        *   [Interactive Perception](https://github.com/shinshiner/Paper-Survey#interactive-perception)
 
 # Data Structure
 
@@ -458,17 +458,19 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets in Point Clouds using a New Analytic Model and Deep Learning](https://arxiv.org/abs/1709.06670) (**arxiv** 2017)
 
+## Machine Vision
+
 ## Active Perception
 
-* [Learning Instance Segmentation by Interaction](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Learning_Instance_Segmentation_CVPR_2018_paper.pdf) (**CVPR** 2018)
+* [Active Perception: Interactive Manipulation for Improving Object Detection](https://pdfs.semanticscholar.org/3835/6590cdd2093377717db243a98e62759d9b2a.pdf) (**Standford University Journal** 2018)
 
-## Machine Vision
+* [Learning Instance Segmentation by Interaction](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Learning_Instance_Segmentation_CVPR_2018_paper.pdf) (**CVPR** 2018)
 
 ### Motion Prediction
 
 * 【SE3-Net】[SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf) (**ICRA** 2017)
 
-### Vision via Interactive Manipulation
+### Interactive Perception
 
 * [Better Vision through Manipulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.9729&rep=rep1&type=pdf) (**Adaptive Behavior** 2003)
 
@@ -479,5 +481,16 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [Generating Object Hypotheses in Natural Scenes through Human-Robot Interaction](http://www.diva-portal.org/smash/get/diva2:448466/FULLTEXT01.pdf) (**IROS** 2011)
 
 * [Segmentation and learning of unknown objects through physical interaction](http://h2t.anthropomatik.kit.edu/pdf/Schiebener2011.pdf) (**IEEE/RAS Int. Conf. on Humanoid Robots (Humanoids)** 2011)
+
+* [Probabilistic Segmentation and Targeted Exploration of Objects in Cluttered Environments](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/hoof2014probabilistic.pdf) (**Robotics, IEEE Transactions** 2014)
+
+* [Interactive perception: Leveraging action in perception and perception in action](http://cn.arxiv.org/pdf/1604.03670.pdf) (**arixv** 2016)
+
+* [Segmenting objects through an autonomous agnostic exploration conducted by a robot](https://www.computer.org/csdl/proceedings/irc/2017/6724/00/07926551.pdf) (**IRC** 2017)
+
+* [Learning Instance Segmentation by Interaction](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Learning_Instance_Segmentation_CVPR_2018_paper.pdf) (**CVPR** 2018)
+
+
+
 
 
