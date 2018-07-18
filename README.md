@@ -52,6 +52,9 @@ The classification of articles may be inaccurate due to personal limited knowled
         *   [Grasping via Segmentation](https://github.com/shinshiner/Paper-Survey#grasping-via-segmentation)
         *   [Grasping Points Selection](https://github.com/shinshiner/Paper-Survey#grasping-points-selection)
     *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
+    *   [Machine Vision](https://github.com/shinshiner/Paper-Survey#machine-vision)
+        *   [Motion Prediction](https://github.com/shinshiner/Paper-Survey#motion-prediction)
+        *   [Vision via Interactive Manipulation](https://github.com/shinshiner/Paper-Survey#vision-via-interactive-manipulation)
 
 # Data Structure
 
@@ -215,6 +218,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【U-Net】[U-net: Convolutional networks for biomedical image segmentation](http://www.cs.cmu.edu/~jeanoh/16-785/papers/ronnenberger-miccai2015-u-net.pdf) (**arxiv** 2015)
 
+* 【DeepMask】[Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204.pdf) (**arxiv** 2015)
+
 * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/abs/1512.04412) (**CVPR** 2016)
 
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) (**ICCV** 2017)
@@ -228,6 +233,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081) (**CVPR** 2018)
 
 * [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/pdf/1804.00880.pdf) (**CVPR** 2018)
+
+* 【Mask^X RCNN】[Learning to Segment Every Thing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf) (**CVPR** 2018)
 
 ## 3D Segmentation
 
@@ -281,7 +288,9 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Learning to Segment Instances in Videos with Spatial Propagation Network](https://arxiv.org/abs/1709.04609) (**CVPR workshop 2017**)
 
-* [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_SegFlow_Joint_Learning_ICCV_2017_paper.pdf) (**openaccess.thecvf** 2017)
+* [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_SegFlow_Joint_Learning_ICCV_2017_paper.pdf) (**CVPR** 2017)
+
+* [Learning Features by Watching Objects Move](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pathak_Learning_Features_by_CVPR_2017_paper.pdf) (**CVPR** 2017)
 
 ### Motion Representation
 
@@ -373,6 +382,16 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887) (**arxiv** 2017)
 
+## Curiosity-Driven RL
+
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf) (**ICML** 2017)
+
+* [Intrinsically motivated model learning for developing curious robots](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AIJ15-Hester.pdf) (**Artificial Intelligence** 2017)
+
+* [Computational Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf) (**arxiv** 2018)
+
+* [Emergence of Structured Behaviors from Curiosity-Based Intrinsic Motivation](https://arxiv.org/pdf/1802.07461.pdf) (**arxiv** 2018)
+
 # Transfer Learning & Meta Learning
 
 ## Algorithm or Model
@@ -440,3 +459,25 @@ The classification of articles may be inaccurate due to personal limited knowled
 * [Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets in Point Clouds using a New Analytic Model and Deep Learning](https://arxiv.org/abs/1709.06670) (**arxiv** 2017)
 
 ## Active Perception
+
+* [Learning Instance Segmentation by Interaction](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Learning_Instance_Segmentation_CVPR_2018_paper.pdf) (**CVPR** 2018)
+
+## Machine Vision
+
+### Motion Prediction
+
+* 【SE3-Net】[SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf) (**ICRA** 2017)
+
+### Vision via Interactive Manipulation
+
+* [Better Vision through Manipulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.9729&rep=rep1&type=pdf) (**Adaptive Behavior** 2003)
+
+* [BIRTH OF THE OBJECT: DETECTION OF OBJECTNESS AND EXTRACTION OF OBJECT SHAPE THROUGH OBJECT–ACTION COMPLEXES](https://www.researchgate.net/profile/Danica_Kragic/publication/220065640_Birth_of_the_Object_Detection_of_Objectness_and_Extraction_of_Object_Shape_through_Object-Action_complexes/links/0deec52b935fedd8a8000000.pdf) (**International Journal of Humanoid Robotics** 2008)
+
+* [Interactive Segmentation for Manipulation in Unstructured Environments](http://www.redaktion.tu-berlin.de/fileadmin/fg170/Publikationen_pdf/2009-icra.pdf) (**ICRA** 2009)
+
+* [Generating Object Hypotheses in Natural Scenes through Human-Robot Interaction](http://www.diva-portal.org/smash/get/diva2:448466/FULLTEXT01.pdf) (**IROS** 2011)
+
+* [Segmentation and learning of unknown objects through physical interaction](http://h2t.anthropomatik.kit.edu/pdf/Schiebener2011.pdf) (**IEEE/RAS Int. Conf. on Humanoid Robots (Humanoids)** 2011)
+
+
