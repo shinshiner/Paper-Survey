@@ -54,7 +54,7 @@ The classification of articles may be inaccurate due to personal limited knowled
     *   [Machine Vision](https://github.com/shinshiner/Paper-Survey#machine-vision)
         *   [Active Perception](https://github.com/shinshiner/Paper-Survey#active-perception)
         *   [Motion Prediction](https://github.com/shinshiner/Paper-Survey#motion-prediction)
-        *   [Interactive Perception](https://github.com/shinshiner/Paper-Survey#interactive-perception)
+    *   [Interactive Perception](https://github.com/shinshiner/Paper-Survey#interactive-perception)
 
 # Data Structure
 
@@ -470,7 +470,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * 【SE3-Net】[SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf) (**ICRA** 2017)
 
-### Interactive Perception
+## Interactive Perception
 
 * [Better Vision through Manipulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.9729&rep=rep1&type=pdf) (**Adaptive Behavior** 2003)
 
