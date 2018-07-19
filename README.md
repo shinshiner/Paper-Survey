@@ -474,6 +474,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Better Vision through Manipulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.9729&rep=rep1&type=pdf) (**Adaptive Behavior** 2003)
 
+* [Interactive Perception: Closing the Gap Between Action and Perception](http://www.dubikatz.com/docs/papers/Interactive%20Perception%20Closing%20the%20Gap%20Between%20Action%20and%20Perception.pdf) (**ICRA** 2007)
+
 * [BIRTH OF THE OBJECT: DETECTION OF OBJECTNESS AND EXTRACTION OF OBJECT SHAPE THROUGH OBJECT–ACTION COMPLEXES](https://www.researchgate.net/profile/Danica_Kragic/publication/220065640_Birth_of_the_Object_Detection_of_Objectness_and_Extraction_of_Object_Shape_through_Object-Action_complexes/links/0deec52b935fedd8a8000000.pdf) (**International Journal of Humanoid Robotics** 2008)
 
 * [Interactive Segmentation for Manipulation in Unstructured Environments](http://www.redaktion.tu-berlin.de/fileadmin/fg170/Publikationen_pdf/2009-icra.pdf) (**ICRA** 2009)
@@ -482,9 +484,13 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Segmentation and learning of unknown objects through physical interaction](http://h2t.anthropomatik.kit.edu/pdf/Schiebener2011.pdf) (**IEEE/RAS Int. Conf. on Humanoid Robots (Humanoids)** 2011)
 
+* [Clearing a Pile of Unknown Objects using Interactive Perception](https://www.ri.cmu.edu/pub_files/2012/11/article_dov2.pdf) (**??** 2012)
+
+* [Segmentation of Cluttered Scenes through Interactive Perception](https://www.researchgate.net/profile/Karol_Hausman/publication/273143501_Segmentation_of_Textured_and_Textureless_Objects_through_Interactive_Perception/links/54fa1e690cf23e66f0311639.pdf) (**ICRA** 2012)
+
 * [Probabilistic Segmentation and Targeted Exploration of Objects in Cluttered Environments](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/hoof2014probabilistic.pdf) (**Robotics, IEEE Transactions** 2014)
 
-* [Interactive perception: Leveraging action in perception and perception in action](http://cn.arxiv.org/pdf/1604.03670.pdf) (**arixv** 2016)
+* [Interactive perception: Leveraging action in perception and perception in action](http://cn.arxiv.org/pdf/1604.03670.pdf) (**arxiv** 2016)
 
 * [Segmenting objects through an autonomous agnostic exploration conducted by a robot](https://www.computer.org/csdl/proceedings/irc/2017/6724/00/07926551.pdf) (**IRC** 2017)
 

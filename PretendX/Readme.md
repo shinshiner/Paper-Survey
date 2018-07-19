@@ -2,13 +2,25 @@
 
 The expressions are sorted by lexicographic order.
 
+## D
+
+* depict | (i.e describe)
+
 ## E
 
 * elicit | 抽出；引出（i.e extract）
 
+## F
+
+* facilitate | 促进；便利
+
 ## H
 
 * heuristics | 启发式
+
+## I
+
+* in the realm of | 在...领域内
 
 ## M
 
@@ -16,7 +28,7 @@ The expressions are sorted by lexicographic order.
 
 ## N
 
-* non-trivial | i.e significant
+* non-trivial | (i.e significant)
 
 ## S
 
