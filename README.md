@@ -212,6 +212,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again](https://arxiv.org/abs/1711.10006) (**openaccess.thecvf** 2017)
 
+* 【Frustum PointNets】[Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf) (**arxiv** 2017)
+
 ## 2D Segmentation
 
 ### Algorithm
@@ -490,7 +492,7 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Probabilistic Segmentation and Targeted Exploration of Objects in Cluttered Environments](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/hoof2014probabilistic.pdf) (**Robotics, IEEE Transactions** 2014)
 
-* [Interactive perception: Leveraging action in perception and perception in action](http://cn.arxiv.org/pdf/1604.03670.pdf) (**arxiv** 2016)
+* [Interactive perception: Leveraging action in perception and perception in action](https://arxiv.org/pdf/1604.03670.pdf) (**arxiv** 2016)
 
 * [Segmenting objects through an autonomous agnostic exploration conducted by a robot](https://www.computer.org/csdl/proceedings/irc/2017/6724/00/07926551.pdf) (**IRC** 2017)
 
