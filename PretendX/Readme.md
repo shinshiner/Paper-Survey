@@ -6,12 +6,15 @@ The expressions are sorted by lexicographic order.
 
 ## D
 
+* deformable | 可变形的
 * depict | (i.e describe)
 * deploy | 部署
 
 ## E
 
+* elapse | （时间）过去，流逝
 * elicit | 抽出；引出（i.e extract）
+* eliminate | 消除
 
 ## F
 
@@ -34,7 +37,15 @@ The expressions are sorted by lexicographic order.
 
 * non-trivial | (i.e significant)
 
+## P
+
+* perceive | 感知；察觉；看出
+
 ## S
 
 * segment a scene into its constituent objects | 将场景分割为其组成对象
 * sufficient | 足够的
+
+## Y
+
+* yield | 产生
