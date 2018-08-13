@@ -6,10 +6,13 @@ The expressions are sorted by lexicographic order.
 
 ## A
 
+* ascertain | v. 探明
 * auxiliary | adj. 辅助的；附加的
+* ablation experiments | 消融实验
 
 ## C
 
+* cue | n. 暗示； v. 隐射（i.e imply）
 * concatenation | n. 级联；并列
 * consecutive | adj. 连续的
 
@@ -19,6 +22,7 @@ The expressions are sorted by lexicographic order.
 * depict | v. (i.e describe)
 * deploy | v. 部署
 * devise | v. 设计；发明
+* draw upon the ideas | 借鉴这些想法
 
 ## E
 
@@ -45,20 +49,28 @@ The expressions are sorted by lexicographic order.
 * interpret | v. 解释；阐释
 * in the realm of | 在...领域内
 
+## L
+
+* laborious | adj. 费力的
+
 ## M
 
 * make major inroads into | 取得了重大进展
 
 ## N
 
+* notion | n. 概念 (i.e concept)
 * non-trivial | adj. (i.e significant)
 
 ## P
 
 * perceive | v. 感知；察觉；看出
+* probe | v. 探测；探索
+* put forth the proposition | 提出这个命题
 
 ## R
 
+* refine | v. 改进；提炼
 * reside in | 在
 
 ## S
