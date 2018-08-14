@@ -6,9 +6,16 @@ The expressions are sorted by lexicographic order.
 
 ## A
 
+* aggregate | v. 合计（i.e add up）
 * ascertain | v. 探明
 * auxiliary | adj. 辅助的；附加的
 * ablation experiments | 消融实验
+
+## B
+
+* be capable of | 有能力的
+* be capped at | 控制在...内；以...为上限
+* be deemed to | 被视为
 
 ## C
 
@@ -27,14 +34,16 @@ The expressions are sorted by lexicographic order.
 ## E
 
 * elapse | v. （时间）过去，流逝
-* elicit | v. 抽出；引出（i.e extract）
+* elicit | v. 抽出（i.e extract）；引出（i.e lead to）
 * eliminate | v. 消除
-* empirically | adv. 经验
+* empirically | adv. 经验地
+* explicitly | adv. 明确地
 * encompass | v. 环绕（i.e surround）
 
 ## F
 
 * facilitate | v. 促进；便利
+* feasibility | n. 可行性；可能性
 * for the sake of brevity | 为了简洁起见
 
 ## H
@@ -44,9 +53,13 @@ The expressions are sorted by lexicographic order.
 
 ## I
 
+* illustrate | v. 图解说明
+* implicitly | adv. 隐式地
 * impose | v.  强加
+* incredible | adj. 难以置信的
 * infeasible | adj. 不可行的
 * interpret | v. 解释；阐释
+* in spite of | 尽管
 * in the realm of | 在...领域内
 
 ## L
@@ -66,6 +79,7 @@ The expressions are sorted by lexicographic order.
 
 * perceive | v. 感知；察觉；看出
 * probe | v. 探测；探索
+* partitioned ... into ... | 把 ... 分成 ...
 * put forth the proposition | 提出这个命题
 
 ## R
@@ -76,11 +90,16 @@ The expressions are sorted by lexicographic order.
 ## S
 
 * segment a scene into its constituent objects | 将场景分割为其组成对象
+* succinctly | adv. 简洁地
 * sufficient | adj. 足够的
 
 ## T
 
 * to this end | 为此（i.e for this reason）
+
+## V
+
+* vast amount of | 大量的
 
 ## W
 

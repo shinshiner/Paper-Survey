@@ -490,6 +490,8 @@ The classification of articles may be inaccurate due to personal limited knowled
 
 * [Segmentation of Cluttered Scenes through Interactive Perception](https://www.researchgate.net/profile/Karol_Hausman/publication/273143501_Segmentation_of_Textured_and_Textureless_Objects_through_Interactive_Perception/links/54fa1e690cf23e66f0311639.pdf) (**ICRA** 2012)
 
+* [Interactive singulation of objects from a pile](https://rse-lab.cs.washington.edu/papers/object-singulation-icra-12.pdf) (**ICRA** 2012)
+
 * [Tracking-based Interactive Segmentation of Textureless Objects](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.948&rep=rep1&type=pdf) (**ICRA** 2013)
 
 * [Probabilistic Segmentation and Targeted Exploration of Objects in Cluttered Environments](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/hoof2014probabilistic.pdf) (**Robotics, IEEE Transactions** 2014)
