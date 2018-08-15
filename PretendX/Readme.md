@@ -10,25 +10,31 @@ The expressions are sorted by lexicographic order.
 * ascertain | v. 探明
 * auxiliary | adj. 辅助的；附加的
 * ablation experiments | 消融实验
+* a high variety of | 种类繁多
 
 ## B
 
 * be capable of | 有能力的
 * be capped at | 控制在...内；以...为上限
 * be deemed to | 被视为
+* be particularly prone to ... | 特别容易...
 
 ## C
 
 * cue | n. 暗示； v. 隐射（i.e imply）
+* confirm | v. 确认
 * concatenation | n. 级联；并列
 * consecutive | adj. 连续的
 
 ## D
 
+* decisive | adj. 决定性的
 * deformable | adj. 可变形的
 * depict | v. (i.e describe)
 * deploy | v. 部署
 * devise | v. 设计；发明
+* discard | v. 抛弃；放弃
+* dominate | v. 支配；主导
 * draw upon the ideas | 借鉴这些想法
 
 ## E
@@ -44,6 +50,7 @@ The expressions are sorted by lexicographic order.
 
 * facilitate | v. 促进；便利
 * feasibility | n. 可行性；可能性
+* for the sake of | 为了
 * for the sake of brevity | 为了简洁起见
 
 ## H
@@ -56,6 +63,7 @@ The expressions are sorted by lexicographic order.
 * illustrate | v. 图解说明
 * implicitly | adv. 隐式地
 * impose | v.  强加
+* inconsistent | adj. 不符的；不一致的
 * incredible | adj. 难以置信的
 * infeasible | adj. 不可行的
 * interpret | v. 解释；阐释
@@ -75,9 +83,14 @@ The expressions are sorted by lexicographic order.
 * notion | n. 概念 (i.e concept)
 * non-trivial | adj. (i.e significant)
 
+## O
+
+* omit | v. 忽略
+
 ## P
 
 * perceive | v. 感知；察觉；看出
+* plausible | adj. 貌似可信的；貌似有理的
 * probe | v. 探测；探索
 * partitioned ... into ... | 把 ... 分成 ...
 * put forth the proposition | 提出这个命题
@@ -89,9 +102,10 @@ The expressions are sorted by lexicographic order.
 
 ## S
 
-* segment a scene into its constituent objects | 将场景分割为其组成对象
+* scenarios | n. 场景
 * succinctly | adv. 简洁地
 * sufficient | adj. 足够的
+* segment a scene into its constituent objects | 将场景分割为其组成对象
 
 ## T
 
@@ -103,6 +117,7 @@ The expressions are sorted by lexicographic order.
 
 ## W
 
+* with respect to | 关于
 * with the aid of | 在...的帮助下
 
 ## Y
