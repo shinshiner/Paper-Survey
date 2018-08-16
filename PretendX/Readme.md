@@ -34,6 +34,7 @@ The expressions are sorted by lexicographic order.
 * deploy | v. 部署
 * devise | v. 设计；发明
 * discard | v. 抛弃；放弃
+* discrepancy | n. 差异
 * dominate | v. 支配；主导
 * draw upon the ideas | 借鉴这些想法
 
@@ -57,17 +58,21 @@ The expressions are sorted by lexicographic order.
 
 * heuristics | n. 启发式
 * homogeneous | adj. 均匀的；同质的
+* hurdles | n. 障碍
 
 ## I
 
 * illustrate | v. 图解说明
 * implicitly | adv. 隐式地
 * impose | v.  强加
+* incentivize | n. 激励
 * inconsistent | adj. 不符的；不一致的
 * incredible | adj. 难以置信的
 * infeasible | adj. 不可行的
 * interpret | v. 解释；阐释
+* in particular | 尤其是
 * in spite of | 尽管
+* in the presence of ... | 在...的存在下
 * in the realm of | 在...领域内
 
 ## L
@@ -90,7 +95,9 @@ The expressions are sorted by lexicographic order.
 ## P
 
 * perceive | v. 感知；察觉；看出
+* perturbation | n. 扰动
 * plausible | adj. 貌似可信的；貌似有理的
+* prior | adj. 先前的
 * probe | v. 探测；探索
 * partitioned ... into ... | 把 ... 分成 ...
 * put forth the proposition | 提出这个命题
@@ -103,13 +110,17 @@ The expressions are sorted by lexicographic order.
 ## S
 
 * scenarios | n. 场景
+* snapshot | n. 快照
 * succinctly | adv. 简洁地
 * sufficient | adj. 足够的
+* scale up | 放大；扩大
 * segment a scene into its constituent objects | 将场景分割为其组成对象
+* surprisingly good | 出奇的好
 
 ## T
 
 * to this end | 为此（i.e for this reason）
+* the abundance of | 丰富的
 
 ## V
 
