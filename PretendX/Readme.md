@@ -7,6 +7,7 @@ The expressions are sorted by lexicographic order.
 ## A
 
 * aggregate | v. 合计（i.e add up）
+* analogously | adv. 类似地
 * ascertain | v. 探明
 * auxiliary | adj. 辅助的；附加的
 * ablation experiments | 消融实验
@@ -33,6 +34,7 @@ The expressions are sorted by lexicographic order.
 * depict | v. (i.e describe)
 * deploy | v. 部署
 * devise | v. 设计；发明
+* dilate | v. 膨胀；使膨胀
 * discard | v. 抛弃；放弃
 * discrepancy | n. 差异
 * dominate | v. 支配；主导
@@ -44,6 +46,8 @@ The expressions are sorted by lexicographic order.
 * elicit | v. 抽出（i.e extract）；引出（i.e lead to）
 * eliminate | v. 消除
 * empirically | adv. 经验地
+* engender | v. 产生
+* exceedingly | adv. 非常
 * explicitly | adv. 明确地
 * encompass | v. 环绕（i.e surround）
 
@@ -57,8 +61,10 @@ The expressions are sorted by lexicographic order.
 ## H
 
 * heuristics | n. 启发式
+* holistically | adv. 从整体上
 * homogeneous | adj. 均匀的；同质的
 * hurdles | n. 障碍
+* hand-crafted | 手工制作
 
 ## I
 
@@ -81,6 +87,7 @@ The expressions are sorted by lexicographic order.
 
 ## M
 
+* moreover | adv. 此外
 * make major inroads into | 取得了重大进展
 
 ## N
@@ -100,6 +107,8 @@ The expressions are sorted by lexicographic order.
 * prior | adj. 先前的
 * probe | v. 探测；探索
 * partitioned ... into ... | 把 ... 分成 ...
+* performs favorably against | 表现出色
+* perform on par with | 与 ... 相提并论
 * put forth the proposition | 提出这个命题
 
 ## R
@@ -115,12 +124,14 @@ The expressions are sorted by lexicographic order.
 * sufficient | adj. 足够的
 * scale up | 放大；扩大
 * segment a scene into its constituent objects | 将场景分割为其组成对象
+* seminal work | 开创性的工作
 * surprisingly good | 出奇的好
 
 ## T
 
 * to this end | 为此（i.e for this reason）
 * the abundance of | 丰富的
+* the caveat is that | 需要注意的是
 
 ## V
 
